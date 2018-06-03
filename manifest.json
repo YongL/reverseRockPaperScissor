@@ -1,0 +1,7 @@
+{
+  "name": "reverseRockPaperScissor",
+  "short_name": "reverseRockPaperScissor",
+  "description": "fun game for the reserve rock paper and scissor",
+  "start_url": "/",
+  "display": "standalone"
+}
