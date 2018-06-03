@@ -1,10 +1,15 @@
 {
   "name": "reverseRockPaperScissor",
   "description": "fun game for the reserve rock paper and scissor",
+  "scripts": {
+    "start": "polymer serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "@polymer/iron-image": "^3.0.0-pre.19",
     "@polymer/paper-button": "^3.0.0-pre.19",
-    "@polymer/polymer": "^3.0.0"
+    "@polymer/polymer": "^3.0.0",
+    "polymer-cli": "^1.7.2"
   },
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "^2.0.0",
